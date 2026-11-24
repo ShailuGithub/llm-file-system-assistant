@@ -5,7 +5,7 @@ $ff = Get-ChildItem "$proj\.venv\Lib\site-packages\imageio_ffmpeg\binaries\ffmpe
 $out = "$proj\demo"
 New-Item -ItemType Directory -Force $out | Out-Null
 Remove-Item "$proj\summaries", "$out\demo.mkv", "$out\demo.mp4" -Recurse -Force -ErrorAction SilentlyContinue
-$title = "LLM File Assistant Demo"
+$title = "LLMDemo"
 
 # conhost.exe forces a classic console window (Windows Terminal would hide the title from ffmpeg)
 $inner = "title $title & mode con: cols=110 lines=38 & color 0A & cd /d `"$proj`" & .venv\Scripts\python.exe -u demo.py & echo. & echo [demo finished] & timeout /t 6 >nul"
