@@ -1,0 +1,16 @@
+Ravi Kumar
+DevOps Engineer
+Email: ravi.kumar@example.com
+
+SUMMARY
+DevOps Engineer with 6 years of experience.
+
+SKILLS
+Kubernetes, Terraform, Jenkins, Python scripting
+
+EXPERIENCE
+Cut deployment time from 40 to 8 minutes with CI/CD automation.
+6 years total across product companies.
+
+EDUCATION
+B.Tech, Computer Science

@@ -1,0 +1,16 @@
+Emma Wilson
+ML Engineer
+Email: emma.wilson@example.com
+
+SUMMARY
+ML Engineer with 5 years of experience.
+
+SKILLS
+Python, PyTorch, scikit-learn, MLflow
+
+EXPERIENCE
+Shipped a churn model that improved retention by 12%.
+5 years total across product companies.
+
+EDUCATION
+B.Tech, Computer Science
